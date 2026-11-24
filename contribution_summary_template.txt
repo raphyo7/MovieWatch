@@ -4,7 +4,7 @@ Project: MovieMatch
 Release: Application Design Prototype 1.0
 
 Contribution record (complete accurately before submitting):
-- Raphael Olatunde: [Describe the work you personally completed: prototype interface, discovery/search behavior, IndexedDB watchlist CRUD, testing, packaging, and demonstration recording, as applicable.]
+- Raphael Olatunde: Established the initial MovieMatch prototype, including UI design, movie search and recommendation functionality, and IndexedDB watchlist CRUD operations.
 - Jeremiah Sanchez: Implemented the interactive Matter.js Physics Poster Wall, Surprise Me picker, dropdown filter controls, input validation, expanded IndexedDB edit/custom-entry forms, live TMDB poster integration, GitHub Pages deployment.
 - Onyinye Ojiako: tested and edited prototype designs, reviewed interface changes, recorded demo video.
 
